@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MAUIProjectManagerLib": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
